@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NotificationAppTest</string>
+    <string name="btn_notifi">发送通知</string>
+    <string name="btn_statue">通知栏状态:</string>
+    <string name="notify_result">通知结果页面</string>
+</resources>
